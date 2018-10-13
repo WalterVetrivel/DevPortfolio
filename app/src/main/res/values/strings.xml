@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dev Portfolio</string>
+    <string name="dev_name">Walter Selvakumar</string>
+    <string name="dev_profession">Programmer</string>
+    <string name="dev_email">waltervetrivel@yahoo.in</string>
+    <string name="about_name">Walter Selvakumar</string>
+    <string name="about_nationality">Indian</string>
+    <string name="education_1">Bachelor of Engineering in Computer Science and Engineering from Mepco Schlenk Engineering College, India.</string>
+    <string name="education_2">Master of Information Technology from University of Canberra, Australia</string>
+    <string name="skills_languages">Java, PHP, JavaScript, Python</string>
+    <string name="skills_database">MySQL</string>
+    <string name="skills_web">HTML, CSS</string>
+    <string name="skills_frameworks">Laravel, Bootstrap 4, Android</string>
+    <string name="work_websites">Portfolio Website for Prof. Dr. S. Andrews\nFinancial Advisor Website for Mr. R. Selvakumar\nResume Website for Ms. C. Nandhini</string>
+    <string name="contact_github">https://github.com/WalterVetrivel</string>
+</resources>
